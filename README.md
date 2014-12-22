@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Tvvo sermons preached before the Kings most excellent Maiesty in the church of Beauly in Hampshire T
+
+1. To the right honourable Henrie, Earle of SOVTHAMPTON, Baron of TICHEFIELD, Knight of the moſt honourable Order of the Garter, and Gouernour of the Iſle of WIGHT.
+
 #####Body#####
-Tvvo sermons preached before the Kings most excellent Maiesty in the church of Beauly in Hampshire T
+
+1. A SERMON PREAched before the King at BEAVLIE in Hampſhire.
+
+1. A SERMON PREAched before the Kings moſt excellent Maieſtie in the Church of BEAVLY in Hampſhire.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
